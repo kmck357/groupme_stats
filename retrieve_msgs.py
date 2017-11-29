@@ -21,7 +21,7 @@ parser.add_argument('-c', '--csv', help='Name of csv file to write to.', default
 parser.add_argument('-o', '--overwrite', help='overwrite csv file', action="store_true")
 
 URL = 'https://api.groupme.com/v3'
-TOKEN = 
+TOKEN = gdWozO1crQHOhf0SfFYkUlMhwdvPrTukBhF6mVhE
 ########## STAT FUNCTIONS ##########
 
 def getNumFavorited(msg):
